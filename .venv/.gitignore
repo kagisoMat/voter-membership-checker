@@ -1,0 +1,6 @@
+#Ignore PyCharm project files
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
